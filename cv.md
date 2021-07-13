@@ -3,14 +3,12 @@
 # Vitaliy Tregubov #
 Male, 31 year old, born on 4 July 1989
 
-twist.org@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/vitaliy-tregubov-95506277/)
-
-
-Work experience:
-## CheckPoint Software Technologies Ltd. ## ###### August 2017 — till now ######
-*IT, Software Development, System Integration, Internet*
+twist.org@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/vitaliy-tregubov-95506277/)  
+  
+*Work experience:*
+## CheckPoint Software Technologies Ltd. ##
+August 2017 — till now
 
 ### QA/Network engineer ###
 Job responsibilities:
@@ -22,14 +20,17 @@ Job responsibilities:
 * Performing competitive analysis towards the main competitors and making suggestions on improving the Check Point products;
 * Checking functionality of the new features according to the customers' needs; 
 * Deploying virtual and physical environments to represent the customers' topologies;
-* Giving proposals regarding improving the stability and functionality of the customers' environment with high quality solutions and best practices.
-
-Education:
+* Giving proposals regarding improving the stability and functionality of the customers' environment with high quality solutions and best practices.  
+  
+*Education:*
 ## Master of Engineering and Technology ##
 * **Belarusian State University of Informatics and Radioelectronics, Minsk**
+
 Computer technologies of electronic systems projecting, Master of Engineering and Technology
 * **Belarusian State University of Informatics and Radioelectronics, Minsk**
+
 Technical safeguarding, Degree of engineer electrician
 * **Hochschule Mittweida, Germany**
+
 Information technology and electrical engineering, Investigation group Optronik
 
