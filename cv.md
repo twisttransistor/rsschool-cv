@@ -1,6 +1,6 @@
 ![My photo](https://media-exp3.licdn.com/dms/image/C4E03AQGmxUQbCigydQ/profile-displayphoto-shrink_200_200/0/1516609201398?e=1631750400&v=beta&t=rPxCJHdMJnoZ8UAIUkPWQ0yfFtKQNevv6Bxno4DobHQ)
 
-#Vitaliy Tregubov#
+# Vitaliy Tregubov #
 Male, 31 year old, born on 4 July 1989
 
 twist.org@gmail.com
@@ -10,10 +10,10 @@ twist.org@gmail.com
 August 2017 — till now
 3 years 9 months
 _______________________________________________________
-CheckPoint Software Technologies Ltd.
+## CheckPoint Software Technologies Ltd. ##
 IT, Software Development, System Integration, Internet 
 
-QA/Network engineer
+### QA/Network engineer ###
 Job responsibilities:
 * QA technology leader role in Remote Access VPN product:
   * implementing Scrum techniques;
