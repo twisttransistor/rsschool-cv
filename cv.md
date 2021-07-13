@@ -7,7 +7,7 @@ twist.org@gmail.com
 [LinkedIn](https://www.linkedin.com/in/vitaliy-tregubov-95506277/)  
   
 
-## *Work experience:* CheckPoint Software Technologies Ltd. ##
+## Work experience: **CheckPoint Software Technologies Ltd.** ##
 August 2017 — till now
 
 ### QA/Network engineer ###
@@ -22,7 +22,7 @@ Job responsibilities:
 * Deploying virtual and physical environments to represent the customers' topologies;
 * Giving proposals regarding improving the stability and functionality of the customers' environment with high quality solutions and best practices.  
   
-## *Education:* Master of Engineering and Technology ##
+## Education: **Master of Engineering and Technology** ##
 * **Belarusian State University of Informatics and Radioelectronics, Minsk**  
 Computer technologies of electronic systems projecting, Master of Engineering and Technology
 * **Belarusian State University of Informatics and Radioelectronics, Minsk**  
