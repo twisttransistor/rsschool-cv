@@ -1,1 +1,1 @@
-https://twisttransistor.github.io/rsschool-cv/cv
+https://twisttransistor.github.io/rsschool-cv/
