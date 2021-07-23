@@ -5,40 +5,60 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style>
-    body {
-        background-color: lightblue;
-        margin: 0 auto;
-      }
-      
-      h1 {
-        color: white;
-        text-align: center;
-      }
-      
-      p {
-        font-family: verdana;
-        font-size: 20px;
-      }</style>
-</head>
- <body>
-    <header>
-        <img src="https://media-exp3.licdn.com/dms/image/C4E03AQGmxUQbCigydQ/profile-displayphoto-shrink_200_200/0/1516609201398?e=1631750400&v=beta&t=rPxCJHdMJnoZ8UAIUkPWQ0yfFtKQNevv6Bxno4DobHQ
-        " alt="my_photo">
-        <h1>Vitaliy Tregubov</h1>
-        <span>Male, 32 year old, born on 4 July 1989</span>
-        <ul>      
+    <link rel="stylesheet" href="mystyle.css">
+    </head>
+<body>
+ <!-- FONTS -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway:100' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>      
+
+
+<!-- PAGE STUFF -->
+<main class="rela-block page">
+    <header class="rela-block top-bar">
+        <div class="caps name"><div class="abs-center">Vitaliy Tregubov</div></div>
+    </header>
+    <aside class="side-bar">
+        <div class="mugshot">
+            <img src="https://media-exp3.licdn.com/dms/image/C4E03AQGmxUQbCigydQ/profile-displayphoto-shrink_200_200/0/1516609201398?e=1631750400&v=beta&t=rPxCJHdMJnoZ8UAIUkPWQ0yfFtKQNevv6Bxno4DobHQ
+        " alt="my_photo">          
+        </div>
+        <p class="rela-block caps side-header">About me</p>
+        <p>Male, 32 year old, born on 4 July 1989</p>
+        <p>Reside in: Minsk</p>
+        <p>Citizenship: Belarus, work permit at: Belarus</p>
+        <p>Ready to relocate, ready for business trips</p>
+        <p class="rela-block caps side-header">Contacts</p>
+        <ul class="rela-block list-thing">      
             <li>twist.org@gmail.com</li>
             <li><a href="https://www.linkedin.com/in/vitaliy-tregubov-95506277/">LinkedIn</a></li> 
         </ul>
-    </header>
-    <section>
-        <h2>Work experience: CheckPoint Software Technologies Ltd.</h2>
-        <span> August 2017 — till now</span>
+        <p class="rela-block caps side-header">Languages</p>
+        <ul class="rela-block list-thing">
+            <li>Belarusian — Native</li>
+            <li>English — B1 — Intermediate</li>
+            <li>German — B1 —Intermediate</li>
+        </ul>
+        
+        <p class="rela-block caps side-header">Certificates</p>
+                <ul class="rela-block list-thing">
+            <li>PSM I</li>
+            <li>CCSA</li>
+            <li>CCNA</li>
+            <li>Jira</li>
+        </ul>
+        
+    </aside>
+    <section class="rela-block content-container">
+        <h2 class="rela-block caps title">QA/Scrum master</h2>
+        <div class="rela-block separator"></div>
 
-        <h3>QA/Network engineer</h3>
-        <span>Job responsibilities:</span>
-        <ul>
+        <div class="rela-block caps greyed">Experience</div>
+
+        <h3>CheckPoint Software Technologies Ltd.</h3>
+        <p class="light">August 2017 — till now</p>
+        <ul class="justified">
             <li> Technology leader role in Remote Access VPN product:
                 <ul>
                     <li>implementing Scrum techniques;</li>
@@ -52,25 +72,28 @@
             <li>Deploying virtual and physical environments to represent the customers' topologies;</li>
             <li>Giving proposals regarding improving the stability and functionality of the customers' environment with high quality solutions and best practices.</li>
         </ul>
-    </section>
-    <section>
-        <h2>Education: Master of Engineering and Technology</h2>
-        <ul>
-            <li>Belarusian State University of Informatics and Radioelectronics, Minsk  
+        <br>
+        <br>
+        <div class="rela-block caps greyed">Education</div>
+        <h3>Master of Engineering and Technology</h3> 
+        <br>    
+        <ul class="long-margin">
+            <li>Belarusian State University of Informatics and Radioelectronics, Minsk  <br>
                 <span>Computer technologies of electronic systems projecting, Master of Engineering and Technology</span>
             </li>
-            <li>Belarusian State University of Informatics and Radioelectronics, Minsk
+            <li>Belarusian State University of Informatics and Radioelectronics, Minsk <br>
                 <span>Technical safeguarding, Degree of engineer electrician</span> 
             </li>
-            <li>Hochschule Mittweida, Germany 
+            <li>Hochschule Mittweida, Germany <br>                
                 <span>Information technology and electrical engineering, Investigation group Optronik</span>
             </li>
-        </ul>
+        </ul>        
     </section>
-    <footer>
-        <p><a href="https://github.com/twisttransistor">git/twisttransistor</a></p>
-        <p><a href="https://rs.school/js/"><img src="https://rs.school/images/rs_school_js.svg" width="100" height="50" alt="rss"></a></p>
-        <time>2021</time>
+    <footer class="rela-block bottom-bar">
+        <p class="abs-bottom"><a href="https://github.com/twisttransistor">git/twisttransistor</a></p>
+        <p class="abs-center"><a href="https://rs.school/js/"><img src="https://rs.school/images/rs_school_js.svg" width="100" height="50" alt="rss"></a></p>
+        <time class="abs-bottom">2021</time>
     </footer>
+</main>
 </body>
 </html>
